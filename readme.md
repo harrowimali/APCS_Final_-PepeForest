@@ -1,1 +1,6 @@
-Welcome to the Rare Pepe forest!
+# Pepes World
+This is a Google Cardboard app, in which you will look around and see Rare Pepes.
+Pepes in the trees.
+Pepes in the skies.
+Pepes in the ground.
+Pepes everywhere!
