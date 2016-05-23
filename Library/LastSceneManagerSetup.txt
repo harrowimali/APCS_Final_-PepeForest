@@ -1,1 +1,4 @@
-sceneSetups: []
+sceneSetups:
+- path: Assets/Handpainted Forest Environment Free Sample/Scenes/demoScene_free.unity
+  isLoaded: 1
+  isActive: 1
