@@ -1,0 +1,13 @@
+/Users/alimalik/Documents/Unity/Test-Forest/Temp/bin/Debug/UnityEngine.dll
+/Users/alimalik/Documents/Unity/Test-Forest/Temp/bin/Debug/UnityEditor.dll
+/Users/alimalik/Documents/Unity/Test-Forest/Temp/bin/Debug/UnityEngine.UI.dll
+/Users/alimalik/Documents/Unity/Test-Forest/Temp/bin/Debug/UnityEngine.Networking.dll
+/Users/alimalik/Documents/Unity/Test-Forest/Temp/bin/Debug/Mono.Cecil.dll
+/Users/alimalik/Documents/Unity/Test-Forest/Temp/bin/Debug/Unity.SerializationLogic.dll
+/Users/alimalik/Documents/Unity/Test-Forest/Temp/bin/Debug/Unity.DataContract.dll
+/Users/alimalik/Documents/Unity/Test-Forest/Temp/bin/Debug/ICSharpCode.NRefactory.dll
+/Users/alimalik/Documents/Unity/Test-Forest/Temp/bin/Debug/Unity.UNetWeaver.dll
+/Users/alimalik/Documents/Unity/Test-Forest/Temp/bin/Debug/Unity.UNetWeaver.dll.mdb
+/Users/alimalik/Documents/Unity/Test-Forest/Temp/bin/Debug/Unity.CecilTools.dll
+/Users/alimalik/Documents/Unity/Test-Forest/Temp/bin/Debug/Mono.Cecil.Pdb.dll
+/Users/alimalik/Documents/Unity/Test-Forest/Temp/bin/Debug/Mono.Cecil.Mdb.dll
