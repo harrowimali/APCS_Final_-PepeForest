@@ -46,6 +46,8 @@
   </ItemGroup>
   <ItemGroup>
      <Compile Include="Assets\Autowalk.cs" />
+     <Compile Include="Assets\Cardboard\DemoScene\FPS.cs" />
+     <Compile Include="Assets\Cardboard\DemoScene\Teleport.cs" />
      <Compile Include="Assets\Cardboard\Scripts\Audio\CardboardAudio.cs" />
      <Compile Include="Assets\Cardboard\Scripts\Audio\CardboardAudioListener.cs" />
      <Compile Include="Assets\Cardboard\Scripts\Audio\CardboardAudioRoom.cs" />
