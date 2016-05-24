@@ -14,8 +14,22 @@ public class testmoveup : MonoBehaviour {
 	}
 
 	public void moveup(){
-		transform.position += new Vector3 (0f, 0.1f, 0f);
+		transform.position += new Vector3 (0f, 0f, 2f);
+		transform.position += new Vector3 (0f, 0f, -2f);
+
+		transform.position += new Vector3 (0f, 0f, 1f);
+		transform.position += new Vector3 (0f, 0f, -1f);
+
+		transform.position += new Vector3 (0f, 0f, 1f);
+		transform.position += new Vector3 (0f, 0f, -1f);
+
+		transform.position += new Vector3 (0f, 0f, 1f);
+		transform.position += new Vector3 (0f, 0f, -1f);
+	
+		forest();
+	}
+
+	public void forest(){
 		Application.LoadLevel ("demoScene_free");
-		
 	}
 }
